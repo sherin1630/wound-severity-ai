@@ -60,6 +60,10 @@ python app.py
 http://127.0.0.1:5000
 ```
 
+## Live Demo
+
+ https://wound-severity-ai.onrender.com
+
 ## 🎯 Project Goal
 
 The objective of this project is to assist users by providing an AI-based preliminary assessment of wound severity from uploaded images. This system is intended for educational and research purposes and should not replace professional medical diagnosis.
